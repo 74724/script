@@ -1,1 +1,5 @@
-sk1IItrxr
+[
+    "Player1",
+    "Player2",
+    "Player3"
+]
